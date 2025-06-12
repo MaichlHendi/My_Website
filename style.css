@@ -145,7 +145,7 @@ nav .fa{
 .RESUME{
     width: 80%;
     margin: auto;
-    text-align: center;
+    text-align: flex-start;
     padding-top: 100px;
 }
 
