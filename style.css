@@ -152,7 +152,7 @@ nav .fa{
 .row{
     margin-top: 5%;
     display: flex;
-    align-items: flex-start;
+    align-items: start;
     justify-content: space-between;
 }
 
