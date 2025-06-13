@@ -146,13 +146,13 @@ nav .fa{
     width: 80%;
     margin: auto;
     text-align: center;
-    align-items: flex-start;
     padding-top: 100px;
 }
 
 .row{
     margin-top: 5%;
     display: flex;
+    align-items: flex-start;
     justify-content: space-between;
 }
 
