@@ -183,7 +183,7 @@ nav .fa{
     background-image:linear-gradient(rgba(4,9,30,3),rgba(4,9,30,0.7)),url("Pictures/scania2.png");;
     border-radius: 10px;
     margin-bottom: 5%;
-    padding: 200px 12px;
+    padding: 20px 12px;
     box-sizing: border-box;
     transition: 1s;
     font-size: larger;
